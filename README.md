@@ -1,3 +1,8 @@
+Website Live Url:https://ai-powered-workforce-management.vercel.app/login
+Credentials:HR-infosysspringboard@company.com ,Password:Password123!
+Manager-alexander.wright@company.com,Password:Password123!
+Employee-josiah.harris@company.com,Password:Password123!
+
 # AI-Powered Workforce Management Automation System - Backend
 
 Production-grade, database-driven, secure monolithic backend built with **FastAPI**, **MongoDB (PyMongo)**, **Pydantic v2**, **Argon2id**, and **JWT**.
